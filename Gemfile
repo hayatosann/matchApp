@@ -77,3 +77,4 @@ gem "font-awesome-sass"
 gem 'carrierwave', '~> 1.0'
 gem 'mini_magick'
 gem 'pry-rails'
+gem 'fog-aws'
