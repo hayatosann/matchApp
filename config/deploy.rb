@@ -2,12 +2,12 @@
 lock '3.11.1'
 
 
-set :default_env, {
-  rbenv_root: "/usr/local/rbenv",
-  path: "/usr/local/rbenv/shims:/usr/local/rbenv/bin:$PATH",
-  aws_access_key_id: Rails.application.credentials.aws[:access_key_id],
-  aws_secret_access_key: Rails.application.credentials.aws[:secret_access_key]
-}
+# set :default_env, {
+#   rbenv_root: "/usr/local/rbenv",
+#   path: "/usr/local/rbenv/shims:/usr/local/rbenv/bin:$PATH",
+#   aws_access_key_id: Rails.application.credentials.aws[:access_key_id],
+#   aws_secret_access_key: Rails.application.credentials.aws[:secret_access_key]
+# }
 
 set :application, "matchApp"
 
