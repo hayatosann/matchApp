@@ -1,24 +1,16 @@
-# README
+# matchApp（README編集中）
+## URL
+http://52.192.255.217/
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 制作理由
 
-Things you may want to cover:
+このアプリケーションを作成した目的として以下をあげる:
 
-* Ruby version
+* Railsによるアプリ作成を通じて、過去の個人開発、チーム開発における学びのアウトプット
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* 今回はuser同士の出会いの目的のmatchingアプリとなったが、コンセプト次第では幅広い分野に応用が聞くアプリケーションの作成に挑戦。
+　
+* 今後の課題,行いたい実装
+  * circle ciによる自動デプロイ。
+  * Dockerの使用。
+  * validationの実装。
