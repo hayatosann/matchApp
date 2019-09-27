@@ -29,26 +29,26 @@ http://52.192.255.217/
   - likeされたuserとlikeしたuser同士をどのように記述すれば紐付けることができるのかということが設計段階において一番苦労した点だと考えております。
 
 # 挙動
-* Initial
+## Initial
  * https://gyazo.com/d776a087ad1d93c840af7b50c9b351d9
  
- - Sign_up
+## Sign_up
  https://gyazo.com/942a3fdf5b904c1f4c14672740963ca2
  
- - Swipe function
+## Swipe function
  https://gyazo.com/d9b6830d8212f6dd28d213908c572c28
  
- - User page & Log_out
+## User page & Log_out
  https://gyazo.com/8d3886fa9c48309caa6af8d21c3a45cf
  
- - Log_in
+## Log_in
  https://gyazo.com/0851329ee70845302221b5ed16de73ca
  
- - matching function
+## matching function
  https://gyazo.com/fcf63b334867381e8d7520c904d03aeb
  https://gyazo.com/1fd2a35723f7df667592c55ecacb19bf
  
- - chat function
+## chat function
  https://gyazo.com/fc6d251313572a89b4597c16c8a5d7d5
  https://gyazo.com/8b0c3ebacb2eef74633d78556cecf2d9
   
