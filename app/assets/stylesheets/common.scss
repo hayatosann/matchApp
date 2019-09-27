@@ -1,7 +1,14 @@
+body {
+  background: linear-gradient(-45deg, rgba(246, 255, 0, .8), rgba(255, 0, 161, .8)),
+  image-url('meetup.jpg');
+  background-size: cover;
+  color:white;
+  font-family: Meiryo, "Hiragino Kaku Gothic Pro W3", Courier New, sans-serif;
+}
 .linkToLogin {
   margin: 15px 0 15px;
   text-align: center;
   & > a {
-    color:#fd5068;
+    color:#fdcd7b;
   }
 }
