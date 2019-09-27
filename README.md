@@ -29,8 +29,8 @@ http://52.192.255.217/
   - likeされたuserとlikeしたuser同士をどのように記述すれば紐付けることができるのかということが設計段階において一番苦労した点だと考えております。
 
 # 挙動
- - Initial
- https://gyazo.com/d776a087ad1d93c840af7b50c9b351d9
+* Initial
+ * https://gyazo.com/d776a087ad1d93c840af7b50c9b351d9
  
  - Sign_up
  https://gyazo.com/942a3fdf5b904c1f4c14672740963ca2
