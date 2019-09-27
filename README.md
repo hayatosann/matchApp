@@ -44,11 +44,11 @@ http://52.192.255.217/
 ## Log_in
  https://gyazo.com/0851329ee70845302221b5ed16de73ca
  
-## matching function
+## Matching function
  https://gyazo.com/fcf63b334867381e8d7520c904d03aeb
  https://gyazo.com/1fd2a35723f7df667592c55ecacb19bf
  
-## chat function
+## Chat function
  https://gyazo.com/fc6d251313572a89b4597c16c8a5d7d5
  https://gyazo.com/8b0c3ebacb2eef74633d78556cecf2d9
   
