@@ -1,4 +1,4 @@
-# matchApp（README編集中）
+# matchApp
 ## URL
 http://52.192.255.217/
 
