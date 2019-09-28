@@ -28,6 +28,16 @@ http://52.192.255.217/
 - matching機能の実装
   - likeされたuserとlikeしたuser同士をどのように記述すれば紐付けることができるのかということが設計段階において一番苦労した点だと考えております。
 
+# アプリ使用方法
+## user1:hayato
+  - email: test@gmail.com
+  - password: testtest
+## user2:rucy
+  - email: test2@gmail.com
+  - password: testtest2
+## 使用
+user1とuser２をマッチングさせることを考える。シークレットウィンドウモードで開いたブラウザと通常モードで開いたブラウザでそれぞれのuserを使ってログインし、マッチングさせると下記の挙動に記しているようにchat画面に移動できるので、chatを開始する。
+
 # 挙動
 ## Initial
  * https://gyazo.com/d776a087ad1d93c840af7b50c9b351d9
