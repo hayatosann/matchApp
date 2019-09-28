@@ -64,3 +64,7 @@ user1とuser２をマッチングさせることを考える。シークレッ�
   
 ## Mobile phone Correspondence
 https://gyazo.com/71c267f8d2867ad23d38701d3ec1ee77
+
+# 追加導入実装
+* Sider CIとslack
+  * プルリクエストを自動で解析し、セキュリティバグ、コード規約、文法、重複記述、未使用の変数、複雑度を検知してその結果をslackに通知してくれるように設定しました。
