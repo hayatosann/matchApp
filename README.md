@@ -40,7 +40,7 @@ user1とuser２をマッチングさせることを考える。シークレッ�
 
 # 挙動
 ## Initial
- * https://gyazo.com/d776a087ad1d93c840af7b50c9b351d9
+ https://gyazo.com/d776a087ad1d93c840af7b50c9b351d9
  
 ## Sign_up
  https://gyazo.com/942a3fdf5b904c1f4c14672740963ca2
@@ -64,6 +64,9 @@ user1とuser２をマッチングさせることを考える。シークレッ�
   
 ## Mobile phone Correspondence
 https://gyazo.com/71c267f8d2867ad23d38701d3ec1ee77
+
+# ER図
+[![Image from Gyazo](https://i.gyazo.com/6eadfc975e20ee71eca5ac537ac53181.png)](https://gyazo.com/6eadfc975e20ee71eca5ac537ac53181)
 
 # 追加導入実装
 * Sider CIとslack
