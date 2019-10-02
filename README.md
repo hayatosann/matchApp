@@ -69,5 +69,5 @@ https://gyazo.com/71c267f8d2867ad23d38701d3ec1ee77
 [![Image from Gyazo](https://i.gyazo.com/6eadfc975e20ee71eca5ac537ac53181.png)](https://gyazo.com/6eadfc975e20ee71eca5ac537ac53181)
 
 # 追加導入実装
-* Sider CIとslack
+* Side CIとslack
   * プルリクエストを自動で解析し、セキュリティバグ、コード規約、文法、重複記述、未使用の変数、複雑度を検知してその結果をslackに通知してくれるように設定しました。
