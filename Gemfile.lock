@@ -309,7 +309,7 @@ DEPENDENCIES
   rails (~> 5.2.2, >= 5.2.2.1)
   rails-erd
   sass-rails
-  sassc
+  sassc (~> 2.2.1)
   selenium-webdriver
   spring
   spring-watcher-listen (~> 2.0.0)
