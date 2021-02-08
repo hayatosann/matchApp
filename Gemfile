@@ -75,7 +75,7 @@ gem 'devise'
 gem 'bootstrap'
 gem 'jquery-rails'
 gem "font-awesome-sass"
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave', '~> 1.3'
 gem 'mini_magick'
 gem 'pry-rails'
 gem 'fog-aws'
